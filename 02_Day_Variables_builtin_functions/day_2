@@ -1,0 +1,13 @@
+# Day 2: 30 days of python programming
+first_name = input("Whats your first name")
+last_name = input('Whats your last name')
+full_name = input("Whats your full name?")
+country = input('name a country')
+city = input('name a city')
+age = int(input('what's your age'))
+year = int(input(whats the year))
+is_married = Y/N
+is_true = Y/N
+is_light_on = Y/N
+plays_sports, weight, height
+  
